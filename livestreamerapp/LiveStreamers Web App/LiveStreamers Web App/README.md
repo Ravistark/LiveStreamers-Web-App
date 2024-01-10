@@ -21,7 +21,7 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 ![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c1e47d67-3651-480b-a8cd-edbb1b4810dd)
 
 
-You can access the live demo of YouTube Clone at [[(https://youtube-clone-by-ritesh.netlify.app)]](https://youtube-clone-by-ritesh.netlify.app/)).
+
 
 ## Getting Started
 
