@@ -60,11 +60,6 @@ npm install
 npm start
 ```
 
-2. Open your web browser and visit [http://localhost:3000](http://localhost:3000).
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/8a75d643-bcf6-4392-a65e-ccd1dec80298)
-
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/bd31d083-0469-4ef2-acb2-ff14f747280a)
-
 
 4. You can now search for videos, watch them, and share URLs with others.
 
@@ -87,11 +82,5 @@ YouTube Clone is licensed under the [MIT License](https://opensource.org/license
 
 YouTube Clone was developed for educational purposes and as a showcase of web development skills. Special thanks to the creators of YouTube for providing such a fantastic platform, and to the open-source community for their valuable contributions to web development tools and libraries.
 
-## Contact
 
-If you have any questions or suggestions, feel free to reach out to the project owner:
-
-- Ritesh Kumar
-- GitHub: [@riteshk-007](https://github.com/riteshk-007)
-- Email: rk0001945@gmail.com, codeshorts007@gmail.com
 
