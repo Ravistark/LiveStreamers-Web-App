@@ -1,10 +1,3 @@
-# YouTube Clone
-
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/f3ddce49-5564-4db3-b1ca-75e6f14b55dc)
-
-
-
-YouTube Clone is a web application that replicates the core features of YouTube, allowing users to search, watch, and share videos. This project is built using modern web technologies to provide a familiar and user-friendly experience.
 
 
 ## Features
@@ -14,11 +7,7 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 - Video Sharing: Users can share their favorite videos with others by copying the video URL.
 - User Accounts: Optional user accounts allow users to create playlists, like videos, and view their watch history.
 
-## Demo
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c01c77de-819c-443f-8746-a1ec6793770f)
 
-
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c1e47d67-3651-480b-a8cd-edbb1b4810dd)
 
 
 
